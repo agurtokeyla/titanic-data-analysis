@@ -4,6 +4,10 @@
 
 This project analyzes the famed **Titanic dataset** using Python (`pandas`, `matplotlib`, `seaborn`) to uncover survival patterns and insights. It demonstrates core skills in data cleaning, exploratory data analysis (EDA), visualization, and storytelling — all of which are critical for entry-level data analyst roles.
 
+Reflection
+
+This project was created with the assistance of AI tools as part of my learning process. I am currently studying each step to better understand how the analysis and visualizations were generated. This project represents my first step toward applying Python and pandas for real-world data analysis.
+
 ---
 
 ## 🎯 Motivation & Problem Statement  
